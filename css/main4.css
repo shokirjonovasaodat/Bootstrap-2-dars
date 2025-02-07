@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.box{
+    display: block;
+    margin-top: 15px;
+    width: 180px;
+    padding-left: 20px;
+}
+.box1{
+     width: 180px;
+     margin: 40px;
+     margin-top: -20px;
+}

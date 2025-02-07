@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(239, 239, 134);
+    text-align: center;
+}
+.a1{
+    border-radius: 5px;
+}
+.a2{
+    border-radius: 10px;
+}
+.a3{
+    border-radius: 30px;
+}
+.a4{
+    border-radius: 0;
+}
